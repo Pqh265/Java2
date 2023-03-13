@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 /**
  *
- * @author Giang8692
  */
 public class Menu {
     public static void main(String[] args) {

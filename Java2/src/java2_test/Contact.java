@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Giang8692
+ 
  */
 public class Contact {
     private String contactName;

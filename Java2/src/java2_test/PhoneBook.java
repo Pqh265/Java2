@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Giang8692
+ *
  */
 public class PhoneBook {
     private HashMap<String, Contact> addressBook = new HashMap<>();
